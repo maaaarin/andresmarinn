@@ -1,5 +1,5 @@
 ## Andrés Marín
 
-![](./test.svg)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<maaaaaarin>)
 
 ![](banner.gif)
