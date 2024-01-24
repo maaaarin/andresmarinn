@@ -1,3 +1,3 @@
 ## Andrés Marín
 
-![](banner.gif)
+
